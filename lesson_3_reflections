@@ -15,3 +15,7 @@ different computer.  Finally, remote repositories also allow other people to wor
 >> What is the benefit of having a copy of the last known state of the remote stored locally?
 
 > Having a copy of the last known state of the remote stored locally saves you the work of having to pull or merge any new commits from Github.
+
+>> How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+> I suppose in collaborating without GitHub, we'd be forced to either email files back and forth or share them via DropBox.  I don't think anything about these methods would be easier, it would be much more difficult to look through previous versions and ensure everyone has up-to-date files.
