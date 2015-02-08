@@ -1,0 +1,27 @@
+>> How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+> The diff allowed me to quickly spot differences between the two files.  Therefore any typos or misplaced punctutation is easily identified.  Before I knew of this method it took a lot longer to pore through lines of code to try and find differences between files.
+
+>> How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+> You could easily view the progression of your code and see some of the common errors that you might make in the early stages of a project.  Once you recognize those errors you'll be less likely to make them again on future projects and become a more efficient programmer.
+
+>> What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+> The pros are that you can save at logical points and include comments along with the changes so that it's very to understand why you saved at a certain point upon looking at the commit.  The cons would be that you could end up saving too often or too infrequently resulting in too many commits or not enough.
+
+>> Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+> Git was built with programming and code in mind, and oftentimes with coding projects, many different files are needed for one project.  As such it makes sense to save all the files together for each commit.  That way you don't have to jump between different versions of files everytime you want to look back on a project.
+
+>> How can you use the commands git log and git diff to view the history of files?
+
+> The command 'git log --stat' allows you to quickly view a summary of the previous commits including who commited it, the date, the comment, and how many lines were changed.  Git diff is very similar to Windows FC in that it shows you the differences between versions.
+
+>> How might using version control make you more confident to make changes that could break something?
+
+> Git allows you to have much more confidence when making changes to something that could potentially break a program.  You can easily switch back to a previous version if you do mess up so there's no need to worry about making errors.
+
+>> Now that you have your workspace set up, what do you want to try using Git for?
+
+> I'm excited to use Git for the Full Stack Web Dev Nanodegree courses!.
