@@ -3,3 +3,7 @@
 > There's a lot of reasons why someone would want to use a remote repository as opposed to keeping all your work local.  It
 serves as backup in case you have a hardwear issue.  It also allows you easier access in case you are working from a 
 different computer.  Finally, remote repositories also allow other people to work on projects more easily.
+
+>> Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+> You or someone else might still be working on the code in a commit, so you might not get the full changes from that commit if Git pulled it automatically.
