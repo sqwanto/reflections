@@ -11,3 +11,7 @@ different computer.  Finally, remote repositories also allow other people to wor
 >> Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 > Forks can only be used with existing repositories on Github.  Therefore, they're mainly used when you're working on somebody elses project.  Clones are similar to forks except that you can clone Github repositories that are stored online to your local machine so that you can work on them locally.  Finally branches are aspects of repositories that allow for you to experiment with changes.
+
+>> What is the benefit of having a copy of the last known state of the remote stored locally?
+
+> Having a copy of the last known state of the remote stored locally saves you the work of having to pull or merge any new commits from Github.
