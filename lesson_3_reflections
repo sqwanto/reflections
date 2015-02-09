@@ -19,3 +19,7 @@ different computer.  Finally, remote repositories also allow other people to wor
 >> How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 > I suppose in collaborating without GitHub, we'd be forced to either email files back and forth or share them via DropBox.  I don't think anything about these methods would be easier, it would be much more difficult to look through previous versions and ensure everyone has up-to-date files.
+
+>> When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+> This approach has the benefit of minimizing the risk of bringing bugs into your master branch.  Creating new branches is a great way to try out new features that you haven't worked out yet entirely.
